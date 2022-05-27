@@ -1,2 +1,7 @@
 # kodluyoruzilkrepo
-Kodluyoruz eğitimi kapsamında açtığım ilk repo
+
+## Kodluyoruz Eğitimi Kapsamında Açtığım İlk Repo
+
+---
+
+![JSImage](img/jsimg.png)
