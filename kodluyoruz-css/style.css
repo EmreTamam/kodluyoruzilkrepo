@@ -1,0 +1,39 @@
+/* NavBar */
+.navBar {
+  text-align: center;
+}
+body {
+  background-color: #fcffe7;
+}
+.headerList {
+  display: inline-block;
+}
+h3 {
+  color: #a5becc;
+}
+p {
+  color: #14c38e;
+}
+li {
+  list-style-position: inside;
+  color: #243a73;
+}
+img {
+  width: 500px;
+}
+a:link {
+  color: #ff5d5d;
+  text-decoration: none;
+}
+a:visited {
+  color: #ff8c8c;
+  text-decoration: none;
+}
+a:hover {
+  color: #ffc3c3;
+  background-color: #ffe3a9;
+  text-decoration: underline;
+}
+a:active {
+  color: black;
+}
